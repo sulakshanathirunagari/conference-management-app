@@ -1,0 +1,21 @@
+# Node.js dependencies (for both frontend and backend)
+frontend/node_modules/
+backend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
